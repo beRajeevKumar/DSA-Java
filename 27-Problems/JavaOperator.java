@@ -18,7 +18,7 @@ public class JavaOperator {
     return ans;
   }
   // It seems to be print java Gargen in vs code terminal But in GFG Platform its
-  // working perfectly
+  // working perfectly.
   // Here is the link of the Problem:--
   //
   // https://practice.geeksforgeeks.org/problems/java-operatorsarithmetic-set-12417/1?page=3&difficulty[]=-1&category[]=Mathematical&sortBy=submissions
