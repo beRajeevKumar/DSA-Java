@@ -1,12 +1,12 @@
 public class DivByFour {
     public static void main(String[] args) {
-
+        System.out.println(divisibleBy4("1124"));
     }
 
-    int divisibleBy4(String N) {
+    static int divisibleBy4(String N) {
         // Your Code Here
         if (N.length() < 3) {
-            int val = Int.parseInt(N);
+            int val = Integer.parseInt(N);
             if (val % 4 == 0)
                 return 1;
             else
@@ -19,6 +19,7 @@ public class DivByFour {
             else
                 return 0;
         }
-        return 0;
     }
 }
+// Here is the link of the Problem:--
+// https://practice.geeksforgeeks.org/problems/check-if-divisible-by-43813/1
