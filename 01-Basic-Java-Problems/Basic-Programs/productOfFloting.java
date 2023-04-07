@@ -1,4 +1,4 @@
-public class pattern_next {
+public class productOfFloting {
   public static void main(String[] args) {
     float f1 = 1.5f;
     float f2 = 2.0f;
