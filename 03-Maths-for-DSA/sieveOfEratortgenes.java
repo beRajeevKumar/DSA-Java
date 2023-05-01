@@ -4,27 +4,42 @@ public class sieveOfEratortgenes {
   public static void main(String[] args) {
     // sieve(10);
     // printPrimes(100);
-    sieveOptimize(100);
+    // sieveOptimize(100);
+    sieveOfEratortgenesShorter(100);
   }
 
-  static void sieveOptimize(int n) {
-    boolean arr[] = new boolean[n + 1];
-    Arrays.fill(arr, true);
-
-    for (int i = 2; i * i <= n; i++) {
-      if (arr[i]) {
+  static void sieveOfEratortgenesShorter(int n) {
+    boolean isPrime[] = new boolean[n + 1];
+    Arrays.fill(isPrime, true);
+    for (int i = 2; i <= n; i++) {
+      if (isPrime[i]) {
+        System.out.println(i + " ");
         for (int j = i * i; j <= n; j = j + i) {
-          arr[j] = false;
+          isPrime[j] = false;
         }
       }
-
-    }
-    for (int i = 2; i <= n; i++) {
-      if (arr[i]) {
-        System.out.println(i + " ");
-      }
     }
   }
+
+  // static void sieveOptimize(int n) {
+  // boolean arr[] = new boolean[n + 1];Arrays.fill(arr,true);
+
+  // for(int i = 2;i*i<=n;i++)
+  // {
+  // if (arr[i]) {
+  // for (int j = i * i; j <= n; j = j + i) {
+  // arr[j] = false;
+  // }
+  // }
+
+  // }for(
+  // int i = 2;i<=n;i++)
+  // {
+  // if (arr[i]) {
+  // System.out.println(i + " ");
+  // }
+  // }
+  // }
 
   // static void sieve(int n) {
   // boolean arr[] = new boolean[n + 1];
