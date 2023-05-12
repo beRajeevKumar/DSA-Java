@@ -39,3 +39,6 @@ public class rightTriangle {
   // Time Complexity : O(n^2)
   // Space Complexity : O(n^2)
 }
+
+// Link to solve the Right Triangle pattern problem on GFG
+// https://www.geeksforgeeks.org/java-program-to-print-right-triangle-star-pattern/
