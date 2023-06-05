@@ -14,6 +14,7 @@ public class leftTriangle {
       }
       System.out.println();
     }
+    sc.close();
   }
 }
 // Time complexity : O(n^2)
