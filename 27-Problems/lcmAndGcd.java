@@ -3,7 +3,7 @@ public class lcmAndGcd {
     System.out.println(lcm(100, 200));
   }
 
-  static Long[] lcmAndGcd(Long A, Long B) {
+  static Long[] lcmAndGcdFinder(Long A, Long B) {
     Long arr[] = new Long[2];
     arr[0] = lcm(A, B);
     arr[1] = gcd(A, B);
