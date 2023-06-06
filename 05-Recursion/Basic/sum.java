@@ -1,15 +1,15 @@
 package Basic;
 
-public class printNums {
+public class sum {
   public static void main(String[] args) {
-    nums(5);
+
+    printSum(10);
   }
 
-  static void nums(int n) {
+  static void printSum(int n) {
     if (n == 0)
       return;
-    nums(n - 1);
     System.out.println(n);
+    printSum(n - 1);
   }
-
 }
