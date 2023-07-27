@@ -8,3 +8,4 @@
 - [Find the Largest of three Numbers](https://www.geeksforgeeks.org/java-program-to-find-the-largest-of-three-numbers/)
 - [GCD or HCF of Two Numbers](https://www.geeksforgeeks.org/java-program-to-find-gcd-or-hcf-of-two-numbers/)
 - [LCM of Two Numbers](https://www.geeksforgeeks.org/java-program-to-find-lcm-of-two-numbers/)
+- [Strong Numbers](https://practice.geeksforgeeks.org/problems/krishnamurthy-number1323/1)
