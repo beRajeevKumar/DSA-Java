@@ -51,7 +51,7 @@ _If you like this project, please leave me a star._ &#9733; -->
 | :--: | ------- | ------ | ----------- |
 |  1   |         |        |             |
 
-## Patterns Problems
+## Pattern Problems
 
 | S.No | Problem | Theory | Source Code |
 | :--: | ------- | ------ | ----------- |
@@ -123,4 +123,4 @@ The Whole content management system is released under the under terms of the [MI
 <br>
 Let me know your views on the repository or any changes or improvements at **_[LinkedIn](https://www.linkedin.com/in/iamprince/)_**, **_[Telegram](https://telegram.me/helloworldbyprince)_** -->
 
-**_Thank you all for Forking this repository_**
+<!-- **_Thank you all for Forking this repository_** -->
