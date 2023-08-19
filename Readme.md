@@ -16,34 +16,34 @@ _If you like this project, please leave me a star._ &#9733; -->
 
 ## Table of Contents
 
-- [Basic Problems](#Basic-Problems)
-- [Pattern Problems](#Pattern-Problems)
-- [Functional Programming](#Functional-Programming)
-- [Complexity](#Time-complexity)
+- [Basic Problems](#basic-problems)
+- [Pattern Problems](#pattern-problems)
+- [Functional Programming](#functional-programming)
+- [Complexity](#complexity)
 - [Mathematics](#mathematics)
-- [Bit-Magic](#Bits-Manipulation)
-- [Recursion](#Recursion)
-- [Arrays](#Arrays)
-- [Searching](#Searching)
-- [Sorting](#Sorting)
+- [Bits-Manipulation](#bits-manipulation)
+- [Recursion](#recursion)
+- [Arrays](#arrays)
+- [Searching](#searching)
+- [Sorting](#sorting)
 - [Matrix](#matrix)
-- [Hashing](#Hashing)
-- [String](#String)
-- [OOPS-in-Java](#OOPS-in-Java)
-- [Linked List](#Linked-List)
-- [Stack](#Stack)
-- [Queue](#Queue)
-- [DeQueue](#DeQueue)
-- [Tree](#Tree)
-- [Binary Search Tree](#Binary-Search-Tree)
-- [Heap](#Heap)
-- [Graph](#Graph)
-- [Greedy](#Greedy)
-- [Backtracking](#Backtracking)
-- [Dynamic Programming](#Dynamic-Programming)
-- [Trie](#Trie)
-- [Segment-Trees](#Segment-Trees)
-- [Disjoint-Set](#Disjoint-Set)
+- [Hashing](#hashing)
+- [String](#string)
+- [OOPS-in-Java](#oops-in-java)
+- [Linked List](#linked-list)
+- [Stack](#stack)
+- [Queue](#queue)
+- [DeQueue](#dequeue)
+- [Tree](#tree)
+- [Binary Search Tree](#binary-search-tree)
+- [Heap](#heap)
+- [Graph](#graph)
+- [Greedy](#greedy)
+- [Backtracking](#backtracking)
+- [Dynamic Programming](#dynamic-programming)
+- [Trie](#trie)
+- [Segment-Trees](#segment-trees)
+- [Disjoint-Set](#disjoint-set)
 
 ## Basic Problems
 
@@ -52,6 +52,18 @@ _If you like this project, please leave me a star._ &#9733; -->
 |  1   |         |        |             |
 
 ## Pattern Problems
+
+| S.No | Problem | Theory | Source Code |
+| :--: | ------- | ------ | ----------- |
+|  1   |         |        |             |
+
+## Functional Programming
+
+| S.No | Problem | Theory | Source Code |
+| :--: | ------- | ------ | ----------- |
+|  1   |         |        |             |
+
+## Complexity
 
 | S.No | Problem | Theory | Source Code |
 | :--: | ------- | ------ | ----------- |
