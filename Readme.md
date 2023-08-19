@@ -33,7 +33,7 @@ _If you like this project, please leave me a star._ &#9733; -->
 - [Linked List](#linked-list)
 - [Stack](#stack)
 - [Queue](#queue)
-- [DeQueue](#dequeue)
+- [Deque](#deque)
 - [Tree](#tree)
 - [Binary Search Tree](#binary-search-tree)
 - [Heap](#heap)
