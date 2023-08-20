@@ -9,3 +9,4 @@ replay_pid*
 
 .vscode/
 .code-workspace
+.DS_Store
