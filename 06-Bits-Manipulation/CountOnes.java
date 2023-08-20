@@ -21,7 +21,7 @@ public class CountOnes {
 
   static int countSetBits2(int num) {
     int count = 0;
-    String bin = Integer.toBinaryString(N); 
+    String bin = Integer.toBinaryString(N);
     for (int i = 0; i < bin.length(); i++) {
       if (bin.charAt(i) == '1') {
         count++;

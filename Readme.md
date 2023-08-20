@@ -47,9 +47,9 @@ _If you like this project, please leave me a star._ &#9733; -->
 
 ## Basic Problems
 
-| S.No | Problem | Theory | Source Code |
-| :--: | ------- | ------ | ----------- |
-|  1   |         |        |             |
+| S.No | Problem                                                                  | Theory | Source Code |
+| :--: | :----------------------------------------------------------------------- | ------ | ----------- |
+|  1   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) |        |             |
 
 ## Pattern Problems
 
