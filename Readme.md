@@ -83,9 +83,10 @@ _If you like this project, please leave me a star._ &#9733; -->
 
 ## Recursion
 
-| S.No | Problem | Theory | Source Code |
-| :--: | ------- | ------ | ----------- |
-|  1   |         |        |             |
+| S.No | Problem                                                                                                                                                            | Theory                                                                                    | Source Code                                                                               |
+| :--: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
+|  1   | [Print N to 1 without loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?page=1&difficulty[]=0&category[]=Recursion&sortBy=submissions) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/PrintNto1.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/PrintNto1.java) |
+|  2   | [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)                                             | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/Print1toN.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/Print1toN.java) |
 
 ## Arrays
 
