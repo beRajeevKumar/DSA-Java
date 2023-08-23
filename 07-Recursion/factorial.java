@@ -9,4 +9,7 @@ public class factorial {
     }
     return n * printFactorial(n - 1);
   }
+  // The recurrence relation of this function is T(n) = T(n - 1) + O(1)
+  // Time complexity of the above function is Theta(n) and
+  // The auxiliary space complexity will be O(n)
 }
