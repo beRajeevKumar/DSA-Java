@@ -1,4 +1,4 @@
-# DSA problems on GFG and Leetcode for improving problem solving skills.
+# DSA problems on GeeksForGeeks for improving problem solving skills.
 
 <!-- <h1 align="center">
   <a name="logo"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/dsa%20logo.png" alt="Complete DSA Preparation" width="750"></a>
@@ -12,7 +12,7 @@
 <!--
 _If you like this project, please leave me a star._ &#9733; -->
 
-> "For coding interview preparation, LeetCode & GeeksforGeeks is one of the best online resource providing a rich library of more than 500+ real coding interview questions for you "
+> "For coding interview preparation, GeeksforGeeks is one of the best online resource providing a rich library of more than 2000+ real coding interview questions for you "
 
 ## Table of Contents
 
@@ -50,6 +50,20 @@ _If you like this project, please leave me a star._ &#9733; -->
 | S.No | Problem                                                                  | Theory                                                                                        | Source Code                                                                                   |
 | :--: | :----------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
 |  1   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  2   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  3   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  4   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  5   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  6   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  7   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  8   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  9   | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  10  | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  11  | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  12  | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  13  | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  14  | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
+|  15  | [Leap Year](https://practice.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/01-Basic-Problems/LeapYear.java) |
 
 ## Pattern Problems
 
@@ -80,9 +94,9 @@ _If you like this project, please leave me a star._ &#9733; -->
 
 ## Functional Programming
 
-| S.No | Problem | Theory | Source Code |
-| :--: | ------- | ------ | ----------- |
-|  1   |         |        |             |
+| S.No | Problem                                                                               | Theory      | Source Code  |
+| :--: | ------------------------------------------------------------------------------------- | ----------- | ------------ |
+|  22  | [Pattern 22](https://practice.geeksforgeeks.org/problems/square-pattern-1662666141/1) | [Article]() | [Solution]() |
 
 ## Complexity
 
@@ -98,9 +112,20 @@ _If you like this project, please leave me a star._ &#9733; -->
 
 ## Bits Manipulation
 
-| S.No | Problem | Theory | Source Code |
-| :--: | ------- | ------ | ----------- |
-|  1   |         |        |             |
+| S.No | Problem                                                                                                                               | Theory      | Source Code  |
+| :--: | ------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ |
+|  1   | [Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | [Article]() | [Solution]() |
+|  2   | [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)                                     | [Article]() | [Solution]() |
+|  3   | [Count total set bits](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)                                 | [Article]() | [Solution]() |
+|  4   | [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)                                                     | [Article]() | [Solution]() |
+|  5   | [Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1)                           | [Article]() | [Solution]() |
+|  6   | [Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)                                             | [Article]() | [Solution]() |
+|  7   | [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1)                     | [Article]() | [Solution]() |
+|  8   | [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)                            | [Article]() | [Solution]() |
+|  9   | [Maximum AND Value](https://practice.geeksforgeeks.org/problems/maximum-and-value-1587115620/1)                                       | [Article]() | [Solution]() |
+|  10  | [Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1)                           | [Article]() | [Solution]() |
+|  11  | [Gray to Binary and Binary to Gray](https://practice.geeksforgeeks.org/problems/gray-to-binary-and-binary-to-gray5518/1)              | [Article]() | [Solution]() |
+|  12  | [Gray to Binary equivalent](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)                       | [Article]() | [Solution]() |
 
 ## Recursion
 
@@ -108,7 +133,7 @@ _If you like this project, please leave me a star._ &#9733; -->
 | :--: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
 |  1   | [Print N to 1 without loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?page=1&difficulty[]=0&category[]=Recursion&sortBy=submissions) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/PrintNto1.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/PrintNto1.java) |
 |  2   | [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)                                             | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/Print1toN.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/Print1toN.java) |
-|  2   | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1)                                                                                           | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/factorial.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/factorial.java) |
+|  3   | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1)                                                                                           | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/factorial.java) | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/07-Recursion/factorial.java) |
 
 ## Arrays
 
