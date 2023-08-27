@@ -3,6 +3,7 @@ public class PrintNto1 {
     printNto1(10);
   }
 
+  // This is a tail recursive function
   static void printNto1(int n) {
     if (n == 0)
       return;
