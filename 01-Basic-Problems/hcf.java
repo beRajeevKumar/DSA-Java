@@ -1,6 +1,14 @@
+import java.util.Scanner;
+
 public class hcf {
   public static void main(String[] args) {
-    System.out.println(gcd(12, 60));
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Enter First Number: ");
+    int num1 = sc.nextInt();
+    System.out.print("Enter First Number: ");
+    int num2 = sc.nextInt();
+    System.out.println("The HCF of Two Numbers is: " + gcd(num1, num2));
+    sc.close();
   }
 
   static int gcd(int A, int B) {

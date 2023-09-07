@@ -1,6 +1,15 @@
+import java.util.Scanner;
+
 public class StrongNumber {
   public static void main(String[] args) {
-    System.out.println(isStrong(145));
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Enter a number to check the Strong Number: ");
+    int num = sc.nextInt();
+    if (isStrong(num) == 1)
+      System.out.println(num + " is a Strong Number.");
+    else
+      System.out.println(num + " is a not Strong Number.");
+    sc.close();
   }
 
   static int isStrong(int N) {
