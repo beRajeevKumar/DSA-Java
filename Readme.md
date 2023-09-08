@@ -1,4 +1,4 @@
-# DSA problems on GeeksForGeeks for improving problem solving skills.
+# Sharpen Your DSA Problem Solving Skills
 
 <!-- <h1 align="center">
   <a name="logo"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/dsa%20logo.png" alt="Complete DSA Preparation" width="750"></a>
@@ -12,7 +12,7 @@
 <!--
 _If you like this project, please leave me a star._ &#9733; -->
 
-> "For coding interview preparation, GeeksforGeeks is one of the best online resource providing a rich library of more than 2000+ real coding interview questions for you "
+<!-- > "For coding interview preparation, GeeksforGeeks is one of the best online resource providing a rich library of more than 2000+ real coding interview questions for you " -->
 
 ## Table of Contents
 
