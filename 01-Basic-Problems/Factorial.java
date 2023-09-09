@@ -10,5 +10,6 @@ public class Factorial {
       fac = fac * i;
     }
     System.out.println("The Factorial of the given Number is: " + fac);
+    sc.close();
   }
 }
