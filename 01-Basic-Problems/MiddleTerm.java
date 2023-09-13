@@ -9,6 +9,13 @@ public class MiddleTerm {
     int num2 = sc.nextInt();
     System.out.print("Enter Number 3: ");
     int num3 = sc.nextInt();
+    if (num1 > num2) {
+      System.out.println("First number is middle.");
+    } else if (num1 > num3) {
+      System.out.println("Second number is middle.");
+    } else {
+      System.out.println("Third number is middle.");
+    }
     sc.close();
   }
 }
