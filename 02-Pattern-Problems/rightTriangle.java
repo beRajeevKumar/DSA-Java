@@ -17,7 +17,3 @@ public class RightTriangle {
     sc.close();
   }
 }
-// Time complexity : O(n^2)
-// Space complexity : O(1)
-// Link to solve the Left Triangle pattern problem on GFG
-// https://www.geeksforgeeks.org/java-program-to-print-left-triangle-star-pattern/
