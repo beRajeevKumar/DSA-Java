@@ -71,30 +71,30 @@ _If you like this project, please leave me a star._ &#9733; -->
 
 ## Pattern Problems
 
-| S.No | Problem                                                                                                 | Theory      | Source Code  |
-| :--: | ------------------------------------------------------------------------------------------------------- | ----------- | ------------ |
-|  1   | [Pattern 1](https://practice.geeksforgeeks.org/problems/square-pattern/1)                               | [Article]() | [Solution]() |
-|  2   | [Pattern 2](https://practice.geeksforgeeks.org/problems/right-triangle/1)                               | [Article]() | [Solution]() |
-|  3   | [Pattern 3](https://practice.geeksforgeeks.org/problems/triangle-number/1)                              | [Article]() | [Solution]() |
-|  4   | [Pattern 4](https://practice.geeksforgeeks.org/problems/triangle-number-1661428795/1)                   | [Article]() | [Solution]() |
-|  5   | [Pattern 5](https://practice.geeksforgeeks.org/problems/triangle-pattern/1)                             | [Article]() | [Solution]() |
-|  6   | [Pattern 6](https://practice.geeksforgeeks.org/problems/triangle-number-1661489840/1)                   | [Article]() | [Solution]() |
-|  7   | [Pattern 7](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661492263/1)                  | [Article]() | [Solution]() |
-|  8   | [Pattern 8](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661493231/1)                  | [Article]() | [Solution]() |
-|  9   | [Pattern 9](https://practice.geeksforgeeks.org/problems/pattern/1)                                      | [Article]() | [Solution]() |
-|  10  | [Pattern 10](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718013/1)                 | [Article]() | [Solution]() |
-|  11  | [Pattern 11](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718455/1)                 | [Article]() | [Solution]() |
-|  12  | [Pattern 12](https://practice.geeksforgeeks.org/problems/double-triangle-pattern-1662664259/1)          | [Article]() | [Solution]() |
-|  13  | [Pattern 13](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718712/1)                 | [Article]() | [Solution]() |
-|  14  | [Pattern 14](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662284916/pattern_14)        | [Article]() | [Solution]() |
-|  15  | [Pattern 15](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285196/1)                 | [Article]() | [Solution]() |
-|  16  | [Pattern 16](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285334/pattern_16)        | [Article]() | [Solution]() |
-|  17  | [Pattern 17](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285911/pattern_17)        | [Article]() | [Solution]() |
-|  18  | [Pattern 18](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662286302/pattern_18)        | [Article]() | [Solution]() |
-|  19  | [Pattern 19](https://practice.geeksforgeeks.org/problems/double-triangle-pattern/1)                     | [Article]() | [Solution]() |
-|  20  | [Pattern 20](https://practice.geeksforgeeks.org/problems/double-triangle-pattern-1662287416/pattern_20) | [Article]() | [Solution]() |
-|  21  | [Pattern 21](https://practice.geeksforgeeks.org/problems/square-pattern-1662287714/pattern_21)          | [Article]() | [Solution]() |
-|  22  | [Pattern 22](https://practice.geeksforgeeks.org/problems/square-pattern-1662666141/1)                   | [Article]() | [Solution]() |
+| S.No | Problem                                                                                                 | Theory      | Source Code                                                                                     |
+| :--: | ------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------- |
+|  1   | [Pattern 1](https://practice.geeksforgeeks.org/problems/square-pattern/1)                               | [Article]() | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/02-Pattern-Problems/Pattern1.java) |
+|  2   | [Pattern 2](https://practice.geeksforgeeks.org/problems/right-triangle/1)                               | [Article]() | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/02-Pattern-Problems/Pattern2.java) |
+|  3   | [Pattern 3](https://practice.geeksforgeeks.org/problems/triangle-number/1)                              | [Article]() | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/02-Pattern-Problems/Pattern3.java) |
+|  4   | [Pattern 4](https://practice.geeksforgeeks.org/problems/triangle-number-1661428795/1)                   | [Article]() | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/02-Pattern-Problems/Pattern4.java) |
+|  5   | [Pattern 5](https://practice.geeksforgeeks.org/problems/triangle-pattern/1)                             | [Article]() | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/02-Pattern-Problems/Pattern5.java) |
+|  6   | [Pattern 6](https://practice.geeksforgeeks.org/problems/triangle-number-1661489840/1)                   | [Article]() | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/02-Pattern-Problems/Pattern6.java) |
+|  7   | [Pattern 7](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661492263/1)                  | [Article]() | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/02-Pattern-Problems/Pattern7.java) |
+|  8   | [Pattern 8](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661493231/1)                  | [Article]() | [Solution](https://github.com/Rajeevjewar/DSA-Java/blob/main/02-Pattern-Problems/Pattern8.java) |
+|  9   | [Pattern 9](https://practice.geeksforgeeks.org/problems/pattern/1)                                      | [Article]() | [Solution]()                                                                                    |
+|  10  | [Pattern 10](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718013/1)                 | [Article]() | [Solution]()                                                                                    |
+|  11  | [Pattern 11](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718455/1)                 | [Article]() | [Solution]()                                                                                    |
+|  12  | [Pattern 12](https://practice.geeksforgeeks.org/problems/double-triangle-pattern-1662664259/1)          | [Article]() | [Solution]()                                                                                    |
+|  13  | [Pattern 13](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718712/1)                 | [Article]() | [Solution]()                                                                                    |
+|  14  | [Pattern 14](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662284916/pattern_14)        | [Article]() | [Solution]()                                                                                    |
+|  15  | [Pattern 15](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285196/1)                 | [Article]() | [Solution]()                                                                                    |
+|  16  | [Pattern 16](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285334/pattern_16)        | [Article]() | [Solution]()                                                                                    |
+|  17  | [Pattern 17](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285911/pattern_17)        | [Article]() | [Solution]()                                                                                    |
+|  18  | [Pattern 18](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662286302/pattern_18)        | [Article]() | [Solution]()                                                                                    |
+|  19  | [Pattern 19](https://practice.geeksforgeeks.org/problems/double-triangle-pattern/1)                     | [Article]() | [Solution]()                                                                                    |
+|  20  | [Pattern 20](https://practice.geeksforgeeks.org/problems/double-triangle-pattern-1662287416/pattern_20) | [Article]() | [Solution]()                                                                                    |
+|  21  | [Pattern 21](https://practice.geeksforgeeks.org/problems/square-pattern-1662287714/pattern_21)          | [Article]() | [Solution]()                                                                                    |
+|  22  | [Pattern 22](https://practice.geeksforgeeks.org/problems/square-pattern-1662666141/1)                   | [Article]() | [Solution]()                                                                                    |
 
 ## Complexity
 
