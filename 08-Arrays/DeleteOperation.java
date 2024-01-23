@@ -29,4 +29,8 @@ public class DeleteOperation {
 
     return n - 1;
   }
+  /*
+   * The Time Complexity of the above function is O(n) in worst case and O(1) when
+   * we want ot delete element at the end.
+   */
 }
