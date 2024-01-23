@@ -36,4 +36,8 @@ public class InsertOperation {
 
     return n + 1;
   }
+  /*
+   * The Time Complexity of the above function is O(n) in worst case and O(1) when
+   * we want ot insert element at the end.
+   */
 }
