@@ -18,7 +18,7 @@ public class DeleteOperation {
         break;
       }
     }
-    if (i == n)
+    if (i == n) // Element not found
       return n;
 
     for (int j = i; j < n - 1; j++) {
