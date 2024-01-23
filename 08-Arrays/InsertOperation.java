@@ -24,7 +24,7 @@ public class InsertOperation {
   // capacity: no of elements can be filled
   static int insert(int arr[], int n, int x, int cap, int pos) {
     if (n == cap)
-      return n;
+      return n; // no space to insert
 
     int idx = pos - 1;
 
