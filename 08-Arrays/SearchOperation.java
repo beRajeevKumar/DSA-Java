@@ -14,4 +14,8 @@ public class SearchOperation {
     return -1;
   }
   // The Time Complexity of the above function is O(n).
+  // The Time Complexity to search an element in a sorted array is O(n) by using
+  // Linear Search (Above).
+  // The Time Complexity to search an element in a sorted array is O(log n) by
+  // using Binary Search.
 }
