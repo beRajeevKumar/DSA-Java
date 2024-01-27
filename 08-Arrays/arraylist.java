@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class arraylist {
+public class Arraylist {
   public static void main(String[] args) {
     // size of ArrayList
     int n = 5;

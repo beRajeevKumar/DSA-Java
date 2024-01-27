@@ -1,6 +1,4 @@
-import java.util.Vector;
-
-public class vector {
+public class Vector {
   public static void main(String[] args) {
     // Create a vector
     Vector<Integer> v = new Vector<Integer>();
