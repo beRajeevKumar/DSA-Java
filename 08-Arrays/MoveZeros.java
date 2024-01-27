@@ -5,11 +5,24 @@ public class MoveZeros {
     int[] arr = { 8, 5, 0, 10, 0, 20 };
     int n = arr.length;
     System.out.println(Arrays.toString(arr));
+    moveZerosEfficient(arr, n);
     moveZeros(arr, n);
     System.out.println(Arrays.toString(arr));
   }
 
   static void moveZeros(int[] arr, int n) {
+    for (int i = 0; i < n; i++) {
+      if (arr[i] == 0) {
+        for (int j = i + 1; j < n; j++) {
+          if (arr[j] != 0) {
+            swap(arr, i, j);
+          }
+        }
+      }
+    }
+  }
+
+  static void moveZerosEfficient(int[] arr, int n) {
     int count = 0;
     for (int i = 0; i < n; i++) {
       if (arr[i] != 0) {
@@ -17,6 +30,7 @@ public class MoveZeros {
         count++;
       }
     }
+    // The Time Complexity is O(n) and Space Complexity is O(1)
   }
 
   static void swap(int[] A, int a, int b) {
