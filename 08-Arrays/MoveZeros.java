@@ -20,6 +20,8 @@ public class MoveZeros {
         }
       }
     }
+    // Time Complexity of the moveZeros function is O(n^2) and Space Complexity is
+    // O(1).
   }
 
   static void moveZerosEfficient(int[] arr, int n) {
@@ -30,7 +32,8 @@ public class MoveZeros {
         count++;
       }
     }
-    // The Time Complexity is O(n) and Space Complexity is O(1)
+    // Time Complexity of the moveZeros function is O(n) and Space Complexity is
+    // O(1)
   }
 
   static void swap(int[] A, int a, int b) {
