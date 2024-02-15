@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class sieveOfEratortgenes {
+public class SieveOfEratortgenes {
   public static void main(String[] args) {
     // sieve(10);
     // printPrimes(100);

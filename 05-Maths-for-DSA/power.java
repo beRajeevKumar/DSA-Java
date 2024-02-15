@@ -1,4 +1,4 @@
-public class power {
+public class Power {
   public static void main(String[] args) {
     // System.out.println(printPower(2, 4));
     System.out.println(powerValue(2, 5));

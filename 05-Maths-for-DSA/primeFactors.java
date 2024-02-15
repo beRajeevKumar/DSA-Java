@@ -1,4 +1,4 @@
-public class primeFactors {
+public class PrimeFactors {
   public static void main(String[] args) {
     // printPrimeFactors(45);
     // printPrimeFactors01(12);

@@ -1,4 +1,4 @@
-public class lcm {
+public class LCM {
   public static void main(String[] args) {
 // System.out.println(lcmFinder(4, 6));
 System.out.println(lcmBest(4, 6));

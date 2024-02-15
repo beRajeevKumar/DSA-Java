@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class absoluteNumber {
+public class AbsoluteNumber {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter a number to find its absolute value: ");

@@ -1,4 +1,4 @@
-public class largestPrimeNumber {
+public class LargestPrimeNumber {
   public static void main(String[] args) {
     System.out.println(largestPrimeFactor(24));
   }

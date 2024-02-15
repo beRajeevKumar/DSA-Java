@@ -1,4 +1,4 @@
-public class allDivisors {
+public class AllDivisors {
   public static void main(String[] args) {
     // divisors(30);
     divisors(36);
