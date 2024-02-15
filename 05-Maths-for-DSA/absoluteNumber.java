@@ -17,7 +17,7 @@ public class absoluteNumber {
     return N;
   }
 
-  // Approach 03:
+  // Approach 02:
 
   static int absoluteNumber02(int N) {
     return Math.abs(N);
