@@ -8,6 +8,7 @@ public class Factorial {
     System.out.println(factorial01(n));
     System.out.println(factorial02(n));
     System.out.println(factorial03(n));
+    sc.close();
   }
 
   // Approach 1;
