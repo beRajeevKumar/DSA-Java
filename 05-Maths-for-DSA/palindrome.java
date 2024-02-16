@@ -25,8 +25,7 @@ public class Palindrome {
   }
 
   static boolean palindromeCheck02(int n) {
-    int temp = n;
-    String number = Integer.toString(temp);
+    String number = Integer.toString(n);
     String reverse_String = new StringBuilder(number).reverse().toString();
     if (number.equals(reverse_String)) {
       return true;
