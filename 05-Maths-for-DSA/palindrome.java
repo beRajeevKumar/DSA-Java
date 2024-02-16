@@ -1,8 +1,13 @@
+import java.util.Scanner;
+
 public class Palindrome {
   public static void main(String[] args) {
-    int n = 555;
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Enter a number: ");
+    int n = sc.nextInt();
     System.out.println(palindromeCheck01(n));
     System.out.println(palindromeCheck02(n));
+    sc.close();
   }
 
   static boolean palindromeCheck01(int n) {
